@@ -15,4 +15,3 @@ Here's a high-level overview of how you could create a basic keylogger using Pyt
 
 It's important to be aware that using keyloggers on someone else's computer without their explicit consent is a violation of privacy and may be illegal. Make sure to use this knowledge responsibly and only in compliance with applicable laws and ethical guidelines.
 
-BY Rushikesh C. Wankar
